@@ -1,0 +1,19 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  width: 1300px;
+  margin: 0 auto;
+}
+
+.banner-img {
+  width: 100%;
+}
+
+.app-main-container {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.carousel-container {
+  padding: 20px 50px;
+}

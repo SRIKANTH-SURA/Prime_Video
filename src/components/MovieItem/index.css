@@ -1,0 +1,26 @@
+.slick-initialized .slick-slide {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.video-container {
+  padding: 20px;
+}
+
+.popup-content {
+  border-radius: 15px;
+}
+
+.close-icon {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  font-size: 20px;
+}
+
+.trigger-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
